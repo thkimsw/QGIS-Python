@@ -1,0 +1,7 @@
+Install in Python
+1. pip install gdal
+2. pip install numpy
+
+Install in conda
+1. conda install -c conda-forge gdal
+2. conda install numpy

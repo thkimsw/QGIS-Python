@@ -1,0 +1,3 @@
+xyz 레이어에 
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
+추가
